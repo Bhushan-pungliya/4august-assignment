@@ -1,0 +1,7 @@
+D:\DotNetConsoleApps\ConsoleAppLinked\ConsoleAppLinked\bin\Debug\ConsoleAppLinked.exe.config
+D:\DotNetConsoleApps\ConsoleAppLinked\ConsoleAppLinked\bin\Debug\ConsoleAppLinked.exe
+D:\DotNetConsoleApps\ConsoleAppLinked\ConsoleAppLinked\bin\Debug\ConsoleAppLinked.pdb
+D:\DotNetConsoleApps\ConsoleAppLinked\ConsoleAppLinked\obj\Debug\ConsoleAppLinked.csprojAssemblyReference.cache
+D:\DotNetConsoleApps\ConsoleAppLinked\ConsoleAppLinked\obj\Debug\ConsoleAppLinked.csproj.CoreCompileInputs.cache
+D:\DotNetConsoleApps\ConsoleAppLinked\ConsoleAppLinked\obj\Debug\ConsoleAppLinked.exe
+D:\DotNetConsoleApps\ConsoleAppLinked\ConsoleAppLinked\obj\Debug\ConsoleAppLinked.pdb

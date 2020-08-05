@@ -1,0 +1,7 @@
+D:\DotNetConsoleApps\ConCollectionsDemo\ConCollectionsDemo\bin\Debug\ConCollectionsDemo.exe.config
+D:\DotNetConsoleApps\ConCollectionsDemo\ConCollectionsDemo\bin\Debug\ConCollectionsDemo.exe
+D:\DotNetConsoleApps\ConCollectionsDemo\ConCollectionsDemo\bin\Debug\ConCollectionsDemo.pdb
+D:\DotNetConsoleApps\ConCollectionsDemo\ConCollectionsDemo\obj\Debug\ConCollectionsDemo.csprojAssemblyReference.cache
+D:\DotNetConsoleApps\ConCollectionsDemo\ConCollectionsDemo\obj\Debug\ConCollectionsDemo.csproj.CoreCompileInputs.cache
+D:\DotNetConsoleApps\ConCollectionsDemo\ConCollectionsDemo\obj\Debug\ConCollectionsDemo.exe
+D:\DotNetConsoleApps\ConCollectionsDemo\ConCollectionsDemo\obj\Debug\ConCollectionsDemo.pdb

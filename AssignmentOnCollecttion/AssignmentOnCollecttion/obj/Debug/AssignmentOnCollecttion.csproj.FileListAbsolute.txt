@@ -1,0 +1,7 @@
+D:\DotNetConsoleApps\AssignmentOnCollecttion\AssignmentOnCollecttion\obj\Debug\AssignmentOnCollecttion.csprojAssemblyReference.cache
+D:\DotNetConsoleApps\AssignmentOnCollecttion\AssignmentOnCollecttion\obj\Debug\AssignmentOnCollecttion.csproj.CoreCompileInputs.cache
+D:\DotNetConsoleApps\AssignmentOnCollecttion\AssignmentOnCollecttion\bin\Debug\AssignmentOnCollecttion.exe.config
+D:\DotNetConsoleApps\AssignmentOnCollecttion\AssignmentOnCollecttion\bin\Debug\AssignmentOnCollecttion.exe
+D:\DotNetConsoleApps\AssignmentOnCollecttion\AssignmentOnCollecttion\bin\Debug\AssignmentOnCollecttion.pdb
+D:\DotNetConsoleApps\AssignmentOnCollecttion\AssignmentOnCollecttion\obj\Debug\AssignmentOnCollecttion.exe
+D:\DotNetConsoleApps\AssignmentOnCollecttion\AssignmentOnCollecttion\obj\Debug\AssignmentOnCollecttion.pdb

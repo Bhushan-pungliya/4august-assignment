@@ -1,0 +1,7 @@
+D:\DotNetConsoleApps\AssignmentLinkedList\AssignmentLinkedList\bin\Debug\AssignmentLinkedList.exe.config
+D:\DotNetConsoleApps\AssignmentLinkedList\AssignmentLinkedList\bin\Debug\AssignmentLinkedList.exe
+D:\DotNetConsoleApps\AssignmentLinkedList\AssignmentLinkedList\bin\Debug\AssignmentLinkedList.pdb
+D:\DotNetConsoleApps\AssignmentLinkedList\AssignmentLinkedList\obj\Debug\AssignmentLinkedList.csprojAssemblyReference.cache
+D:\DotNetConsoleApps\AssignmentLinkedList\AssignmentLinkedList\obj\Debug\AssignmentLinkedList.csproj.CoreCompileInputs.cache
+D:\DotNetConsoleApps\AssignmentLinkedList\AssignmentLinkedList\obj\Debug\AssignmentLinkedList.exe
+D:\DotNetConsoleApps\AssignmentLinkedList\AssignmentLinkedList\obj\Debug\AssignmentLinkedList.pdb
